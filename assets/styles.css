@@ -19,7 +19,7 @@ body {
     background-position: center;
     height: 100%;
 }
-
+/* creating a box style */
 .container {
     margin: 0 auto;
     width: 960px;
@@ -36,6 +36,21 @@ body {
 
 }
 
+#bioContent {
+    max-width: 100%;
+    margin-top: 5px;
+}
+
+#contactForm {
+
+    margin-left: -25px;
+}
+
+form .row {
+
+    margin-top: 15px;
+}
+
 footer {
     background-color: #343a40;
     color: #FFF;
@@ -43,4 +58,23 @@ footer {
     text-align: center;
     border-top: 2px hsl(210, 17%, 72%) solid ;
     
+}
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2) { 
+
+    .container {
+        margin: 0 auto;
+        width: 100%;
+        background-color: rgba(255, 255, 255, .85);
+        padding: 15px;
+    }
+
+    #contactForm {
+        margin: 15px 0; 
+    }
+
 }
