@@ -36,6 +36,10 @@ nav img {
   margin-left: -25px;
 }
 
+ul.noStyle {
+  list-style: none;
+}
+
 form .row {
   margin-top: 15px;
 }
