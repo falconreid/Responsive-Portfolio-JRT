@@ -1,4 +1,4 @@
-# Assignment-2-Responsive-Portfolio
+Responsive Portfolio
 Use Bootstrap to build a responsive portfolio site.
 * Site is a Functional, deployed application.
 
@@ -23,4 +23,5 @@ Use Bootstrap to build a responsive portfolio site.
 * Added icon and name to navbar
 
 * Added dropshadow to image based links to be more 'interactive'.
+https://falconreid.github.io/Responsive-Portfolio-JRT/
 
