@@ -1,27 +1,33 @@
 Responsive Portfolio
-Use Bootstrap to build a responsive portfolio site.
-* Site is a Functional, deployed application.
+I Used Bootstrap to build a responsive portfolio site.
 
-* GitHub repository contains README describing the project
+- Site is a Functional, deployed application.
 
-* Navbar is consistent on each page.
+- GitHub repository contains README describing the project
 
-* Navbar on each page contains links to Home/About, Contact, and Portfolio pages.
+- Navbar is consistent on each page.
 
-* All links are fully functional (not all links on portfolio page go somewhere but they're not technically broken links).
+- Navbar on each page contains links to Home/About, Contact, and Portfolio pages.
 
-* Semantic html is used as much as possible.
+- All links are fully functional
 
-* Each page has valid and correct HTML. (used https://validator.w3.org/ - only 3 errors, easily remedied)
+- Semantic html is used as much as possible.
 
-* Contains my personalized information. (bio, name, images, links to social media, etc.)
+- Each page has valid and correct HTML. (used https://validator.w3.org/ - only 3 errors, easily remedied)
 
-* Properly utilizes Bootstrap components and grid system.
+- Contains my personalized information. (bio, name, images, links to social media, etc.)
 
-* Used box layout instead of full width 
+- Properly utilizes Bootstrap components and grid system.
 
-* Added icon and name to navbar
+- Used box layout instead of full width
 
-* Added dropshadow to image based links to be more 'interactive'.
-https://falconreid.github.io/Responsive-Portfolio-JRT/
+- Added icon and name to navbar
 
+- Added dropshadow to image based links to be more 'interactive'.
+
+  https://github.com/falconreid/Responsive-Portfolio-JRT
+  https://falconreid.github.io/Responsive-Portfolio-JRT/
+
+![](./images/home-pg.jpg)
+![](./images/portfolio-pg.jpg)
+![](./images/contact-pg2.jpg)
